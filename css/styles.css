@@ -1,0 +1,47 @@
+/* Stylesheet */
+#img{
+	margin-left: -10px;
+}
+body{
+	
+	background-color: #cccccc;
+}
+#img2{
+	margin: 20px 0px 10px 10px;
+	padding: 10px;
+	padding-top: 10px;
+
+}
+#leftimg{
+	text-align: center;
+	margin-left: -3px;
+	text-decoration: none;
+	font-weight: bold;
+	
+}
+#pp{
+	text-align: center;
+	margin-top: -10px;
+
+
+}
+#highlight{
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+ #p1{
+ 	font-weight: bold;
+ }
+ #cast{
+ 	text-align: center;
+
+ }
+ a{
+ 	margin-left: -10px;
+ }
+ #bot{
+ 	text-align: center;
+ 	text-decoration: none;
+ 	font-weight: bold;
+ }
